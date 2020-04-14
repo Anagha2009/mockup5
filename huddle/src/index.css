@@ -1,0 +1,168 @@
+body {
+  margin: 0;
+  font-family: BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.head{
+  background:url('./images/bg-hero-desktop.svg') hsl(193, 100%, 96%);
+}
+.logo{
+  position: relative;
+  top:-50px;
+  left:60px;
+  width:150px;
+}
+.try{
+  position: relative;
+  top:-50px;
+  border:1px solid hsl(193, 100%, 96%) ;
+  border-radius: 10px;
+  width:150px;
+  height:35px;
+  left:-30px;
+}
+h3{
+  position: relative;
+  top:1px;
+  left:60px;
+  color: hsl(192, 100%, 9%)
+}
+.p1{
+  color:hsl(208, 11%, 55%);
+  position: relative;
+  top:3px;
+  left:60px;
+}
+.get{
+  border-radius: 20px;
+  border: 1px solid  hsl(322, 100%, 66%);
+  width:170px;
+  height:35px;
+  background-color:  hsl(322, 100%, 66%);
+  color:white;
+  position: relative;
+  left:60px;
+  padding:5px;
+}
+.mockup{
+  height:300px;
+  width:500px;
+  position: relative;
+  left:-300px;
+  top:-210px;
+}
+ h4{
+  color: hsl(192, 100%, 9%);
+  padding: 5px;
+  margin :15px;
+}
+ .p2{
+  padding: 5px;
+  margin :15px;
+  color:hsl(208, 11%, 55%);
+} 
+ .img{
+  height:180px;
+  width:300px;
+}
+.card{
+position: relative;
+left:130px;
+width:900px;
+cursor: pointer;
+box-shadow: 1px 1px rgb(223, 221, 221);
+} 
+.card1{
+  position: relative;
+  top:-100px;
+}
+.card2{
+  position: relative;
+  top:-60px;
+}
+.card3{
+  position: relative;
+  top:-20px;
+}
+.foot{
+  background-color: hsl(192, 100%, 9%);
+  color:white;
+  position: absolute;
+}
+.logo1{
+  position: relative;
+  top:-50px;
+  left:60px;
+  width:150px;
+  filter: grayscale(100%);
+  border:1px solid hsl(192, 100%, 9%);
+  background-color: hsl(193, 100%, 96%);
+}
+#loc{
+  margin-left: 15px;
+  position: relative;
+  left:-125px;
+  top:10px;
+}
+#content{
+  margin-left: 65px;
+  position:relative;
+  top:-15px;
+  font-size:16px;
+}
+#phone{
+  margin-left: 15px;
+  position: relative;
+  left:-155px;
+  top:80px;
+}
+#email{
+  margin-left: 15px;
+  position: relative;
+  left:-185px;
+  top:120px;
+}
+.about{
+  position: relative;
+  top:13px;
+  left:10px;
+  line-height: 35px;
+}
+i.fab{
+  padding:10px;
+  margin-top: 15px;
+}
+span{
+  position: relative;
+  top:65px;
+  padding:0px;
+  margin-top:10px;
+}
+
+.card-section{
+  width:300px;
+  border:1px solid white;
+  background-color: white;
+  position: relative;
+  left:650px;
+  top:-10px;
+}
+.free{
+  border-radius: 20px;
+  border: 1px solid  hsl(322, 100%, 66%);
+  width:170px;
+  height:35px;
+  background-color:  hsl(322, 100%, 66%);
+  color:white;
+  position: relative;
+  left:60px;
+  padding:5px;
+}
